@@ -6,7 +6,7 @@ const Header = () => {
         <h2
           style={{ color: 'var(--primaryFont)' }}
         >
-          Header
+          Calendar
         </h2>
       </div>
       <div>
